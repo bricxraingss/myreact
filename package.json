@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://bricxraingss.github.io/my-react",
+  "homepage": "https://bricxraingss.github.io/myreact/",
   "scripts": {
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
